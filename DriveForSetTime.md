@@ -1,6 +1,6 @@
 ---
 title: DriveForSetTime
-parent: Code Samples
+parent: Examples
 has_children: false
 nav_order: 1
 ---

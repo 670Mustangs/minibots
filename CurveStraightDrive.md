@@ -1,6 +1,6 @@
 ---
 title: CurveStraightDrive
-parent:Exercises
+parent: Exercises
 has_children: false
 nav_order: 1
 ---

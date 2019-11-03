@@ -1,5 +1,5 @@
 ---
-title: Exercise 1: What's Wrong Here?
+title: Exercise 1: Debugging CurveStraightDrive
 parent: Exercises
 has_children: false
 nav_order: 1

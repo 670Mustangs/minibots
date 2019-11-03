@@ -1,12 +1,12 @@
 ---
-title: Exercise 1: Debugging CurveStraightDrive
-parent: Exercises
+title: CurveStraightDrive
+parent:Exercises
 has_children: false
 nav_order: 1
 ---
 
 
-# What's wrong with this command?
+# CurveStraightDrive: What's wrong with this command?
 
 
 Take a look at this code below. Then, do your best to answer these questions:  

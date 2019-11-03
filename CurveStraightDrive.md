@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 
-# CurveStraightDrive: What's wrong with this command?
+# CurveStraightDrive
 
 
 Take a look at this code below. Then, do your best to answer these questions:  
